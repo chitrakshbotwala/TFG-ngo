@@ -24,13 +24,13 @@ export default function Home() {
         <meta name="copyright" content="TFG" />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="teamhnm.org" />
+        <meta property="og:url" content="https://tfg-ngo.vercel.app/" />
         <meta property="og:title" content="Teenagers for good" />
         <meta
           property="og:description"
           content="We reduce the wastage of food by using it for a good cause and provide a healthy meal to kids so that they can sleep with no hunger."
         />
-        <meta property="og:image" content="https://teamhnm.org/og.png" />
+        <meta property="og:image" content="https://tfg-ngo.vercel.app//og.png" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="teamhnm.org" />
         <meta property="twitter:title" content="Teenagers for good" />
@@ -38,7 +38,7 @@ export default function Home() {
           property="twitter:description"
           content="We reduce the wastage of food by using it for a good cause and provide a healthy meal to kids so that they can sleep with no hunger."
         />
-        <meta property="twitter:image" content="https://" />
+        <meta property="twitter:image" content="https://tfg-ngo.vercel.app/" />
       </Head>
 
       <main className="">
