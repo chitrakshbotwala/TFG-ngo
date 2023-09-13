@@ -38,7 +38,7 @@ export default function CoreTeam() {
       position: "Deputy of Management",
     },
        {
-      avatar: "/team/",
+      avatar: "/team/snigdha.jpeg",
       name: "Snigdha",
       position: "Deputy of content creation",
     },
