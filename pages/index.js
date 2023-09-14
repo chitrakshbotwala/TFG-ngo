@@ -32,7 +32,7 @@ export default function Home() {
         />
         <meta property="og:image" content="https://tfg-ngo.vercel.app//og.png" />
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="teamhnm.org" />
+        <meta property="twitter:url" content="https://tfg-ngo.vercel.app/" />
         <meta property="twitter:title" content="Teenagers for good" />
         <meta
           property="twitter:description"
