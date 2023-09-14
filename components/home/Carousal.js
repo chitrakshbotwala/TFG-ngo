@@ -80,13 +80,7 @@ export default function Carousal() {
           className="sm:w-10/12 rounded-lg shadow-md ring ring-zinc-200"
         />
       </SwiperSlide>
-      <SwiperSlide className="flex justify-center items-center overflow-visible">
-        <img
-          src="/carousal/12.jpg"
-          alt=""
-          className="sm:w-10/12 rounded-lg shadow-md ring ring-zinc-200"
-        />
-      </SwiperSlide>
+    
       
     </Swiper>
   );
