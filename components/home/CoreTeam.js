@@ -18,11 +18,6 @@ export default function CoreTeam() {
       position: "Head of Donations and Content",
     },
     {
-      avatar: "/team/mondira.jpeg",
-      name: "Mondira",
-      position: "Head of Donations and Content",
-    },
-    {
       avatar: "/team/samridhi.jpeg",
       name: "Samridhi",
       position: "Head of Public Relations and Deputy donations",
