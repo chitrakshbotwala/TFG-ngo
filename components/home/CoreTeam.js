@@ -10,22 +10,17 @@ export default function CoreTeam() {
     {
       avatar: "/team/me.jpeg",
       name: "Chitraksh",
-      position: "Head of management",
+      position: "Head of Management",
     },
     {
       avatar: "/team/aditi.jpeg",
       name: "Aditi",
-      position: "Head of Donations and Content",
-    },
-    {
-      avatar: "/team/samridhi.jpeg",
-      name: "Samridhi",
-      position: "Head of Public Relations and Deputy donations",
+      position: "Head of Donations",
     },
     {
       avatar: "/team/arjun.jpeg",
       name: "Arjun",
-      position: "Deputy of content creation",
+      position: "Head of content creation",
     },
     {
       avatar: "/team/ayush.jpeg",
@@ -36,6 +31,12 @@ export default function CoreTeam() {
       avatar: "/team/snigdha.jpeg",
       name: "Snigdha",
       position: "Deputy of content creation",
+      
+    },
+    {
+      avatar: "/team/nilav.jpeg",
+      name: "Nilav",
+      position: "Deputy of Public Realtions",
     },
     {
       avatar: "/team/",
